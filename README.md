@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritam Chakrabortty</h1>
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sacredheart.edu/media/shu-media/school-of-computer-science-amp-engineering/computer-hacking.jpg">
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/50/95/87/360_F_550958748_OeGcRonEUNoVhd0wjd9zSEMhLFIGO9Bt.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritamchakrabortty&label=Profile%20views&color=0e75b6&style=flat" alt="ritamchakrabortty" /> </p>
 
