@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritam Chakrabortty</h1>
-<img align="middle" alt="Coding" width="1500" src="https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png">
+<img align="middle" alt="Coding" width="150" src="https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png">
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sacredheart.edu/media/shu-media/school-of-computer-science-amp-engineering/computer-hacking.jpg">
 
