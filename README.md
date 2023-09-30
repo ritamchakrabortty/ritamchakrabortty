@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **Machine Learning & Back End**
 
 - 💬 Ask me about **c**
 
