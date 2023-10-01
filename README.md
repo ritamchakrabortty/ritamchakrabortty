@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@mr596ritam2023" target="blank"><img src="https://img.shields.io/twitter/follow/@mr596ritam2023?logo=twitter&style=for-the-badge" alt="@mr596ritam2023" /></a> </p>
 
-- 🔭 I’m currently working on **python**
+- 🔭 I’m currently working on **python & jupyter notebook**
 
 - 🌱 I’m currently learning **c,python,java,ML**
 
