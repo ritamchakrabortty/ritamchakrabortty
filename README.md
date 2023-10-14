@@ -3,7 +3,6 @@
 <h3 align="center">A passionate learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritamchakrabortty&label=Profile%20views&color=0e75b6&style=flat" alt="ritamchakrabortty" /> </p>
-<img align="right" alt="Coding" width="400" src="https://www.sacredheart.edu/media/shu-media/school-of-computer-science-amp-engineering/computer-hacking.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritamchakrabortty" alt="ritamchakrabortty" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://www.sacredheart.edu/media/shu-media/school-of-computer-science-amp-engineering/computer-hacking.jpg">
