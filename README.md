@@ -6,6 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.sacredheart.edu/media/shu-media/school-of-computer-science-amp-engineering/computer-hacking.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritamchakrabortty" alt="ritamchakrabortty" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://www.sacredheart.edu/media/shu-media/school-of-computer-science-amp-engineering/computer-hacking.jpg">
 
 <p align="left"> <a href="https://twitter.com/@mr596ritam2023" target="blank"><img src="https://img.shields.io/twitter/follow/@mr596ritam2023?logo=twitter&style=for-the-badge" alt="@mr596ritam2023" /></a> </p>
 
