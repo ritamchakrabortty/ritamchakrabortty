@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritamchakrabortty&label=Profile%20views&color=0e75b6&style=flat" alt="ritamchakrabortty" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritamchakrabortty" alt="ritamchakrabortty" /></a> </p>
-<p><img align="right" alt="Coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></p>
+<p><img align="right" alt="Coding" width="500" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></p>
 <p align="left"> <a href="https://twitter.com/@mr596ritam2023" target="blank"><img src="https://img.shields.io/twitter/follow/@mr596ritam2023?logo=twitter&style=for-the-badge" alt="@mr596ritam2023" /></a> </p>
 
 - 🔭 I’m currently working on **python & java**
